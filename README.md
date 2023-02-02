@@ -1,1 +1,1 @@
-# landingpage-qrculture
+# Nova landing page da QR Culture
